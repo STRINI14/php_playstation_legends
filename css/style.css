@@ -1,0 +1,45 @@
+.dropdown-item:hover{
+    color: rgb(10, 63, 180);
+    cursor: pointer;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+    padding-top: 60px;
+   }
+
+.context-text{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contact-text{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 30px;
+}
+
+.btn{
+    background-color: grey;
+    color: white;
+}
+
+.btn:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+
+
